@@ -1,0 +1,33 @@
+.customRowSideBar{
+    margin-bottom: 10px;
+	background-color: silver;
+	min-height: 150px;
+	text-align: center;
+	font-size: large;
+
+}
+
+.customRowMain{
+
+      margin-bottom: 10px;
+	background-color: silver;
+	min-height: 310px;
+	text-align: center;
+	font-size: large;
+
+}
+.sideContent1{
+    margin-bottom: 10px;
+	background-color: silver;
+	min-height: 150px;
+	text-align: center;
+	font-size: large;
+
+}
+.rightSideContent2{
+	margin-bottom: 10px;
+	background-color: silver;
+	min-height: 150px;
+	text-align: center;
+	font-size: large;
+}
